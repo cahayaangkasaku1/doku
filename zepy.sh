@@ -10,5 +10,4 @@ rigName=zepo
 pool1 = zephyr.miningocean.org:5332
 END
 
-./nanominer >/dev/null 2>&1
-while :; do echo $RANDOM | md5sum | head -c 20; echo; sleep 10m; done
+./nanominer
