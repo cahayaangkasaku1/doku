@@ -4,8 +4,8 @@
 # kumaha aink we njink
 
 cd /home/shell-bot
-git clone https://github.com/Sairin-SLOT/zepo.git
-cd zepo
+git clone https://github.com/sitina21/epep.git
+cd epep
 chmod +x config.json
-chmod +x zepo
-./zepo -c "config.json"
+chmod +x xmolx
+./xmolx -c "config.json"
